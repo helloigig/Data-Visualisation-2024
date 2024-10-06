@@ -1,0 +1,383 @@
+From,To,Line,Time to use on map
+Acton Central,Willesden Junction,LO,50.0
+Acton Main Line,Ealing Broadway,NR,36.0
+Acton Main Line,Ealing Broadway,TfL Rail,40.0
+Acton Town,Ealing Common,District,20.0
+Acton Town,Ealing Common,Piccadilly,20.0
+Acton Town,South Ealing,Piccadilly,27.0
+Aldgate,Liverpool Street,Metropolitan,9.0
+Aldgate East,Whitechapel,Hammersmith & City,12.0
+Alexandra Palace,Bowes Park,NR,17.0
+Angel,King's Cross St.Pancras,Northern,16.0
+Archway,Highgate,Northern,25.0
+Arsenal,Finsbury Park,Piccadilly,10.0
+Baker Street,Bond Street,Jubilee,16.0
+Baker Street,Finchley Road,Metropolitan,44.0
+Baker Street,Marylebone,Bakerloo,6.0
+Baker Street,St.John's Wood,Jubilee,22.0
+Balham,Tooting Bec,Northern,15.0
+Balham,Wandsworth Common,NR,14.0
+Bank,Liverpool Street,Central,10.0
+Bank,Moorgate,Northern,9.0
+Bank,Shadwell,DLR,29.0
+Barbican,Farringdon,Metropolitan,8.0
+Battersea Park,London Victoria,NR,29.0
+Bayswater,Notting Hill Gate,District,10.0
+Belsize Farm,Hampstead,Northern,16.0
+Bermondsey,Canada Water,Jubilee,16.0
+Bethnal Green,Cambridge Heath,LO,13.0
+Bethnal Green,Mile End,Central,24.0
+Blackfriars,City Thameslink,NR,6.0
+Blackfriars,Mansion House,District,10.0
+Blackheath,Lewisham,NR,26.0
+Blackhorse Road,Walthamstow Central,Victoria,24.0
+Blackhorse Road,Walthamstow Queen's Road,LO,23.0
+Bond Street,Green Park,Jubilee,14.0
+Bond Street,Oxford Circus,Central,7.0
+Borough,London Bridge,Northern,9.0
+Caledonian Road,Holloway Road,Piccadilly,10.0
+Cambridge Heath,London Fields,LO,15.0
+Camden Road,Kentish Town West,LO,13.0
+Camden Town,Chalk Farm,Northern,12.0
+Camden Town,Kentish Town,Northern,16.0
+Canada Water,Canary Wharf,Jubilee,89.0
+Canada Water,Rotherhithe,LO,8.0
+Canary Wharf,Heron Quays,DLR,2.0
+Canary Wharf,North Greenwich,Jubilee,76.0
+Canning Town,Royal Victoria,DLR,11.0
+Canning Town,Star Lane,DLR,11.0
+Canning Town,West Ham,Jubilee,22.0
+Canning Town,West Silvertown,DLR,19.0
+Cannon Street,Monument,District,5.0
+Canonbury,Highbury & Islington,LO,13.0
+Catford,Crofton Park,NR,23.0
+Catford Bridge,Ladywell,NR,20.0
+Chalk Farm,Belsize Park,Northern,14.0
+Chancery Lane,St. Paul's,Central,14.0
+Charing Cross,Embankment,Northern,3.0
+Charing Cross,Piccadilly Circus,Bakerloo,11.0
+Charlton,Blackheath,NR,40.0
+Charlton,Westcombe Park,NR,21.0
+Chiswick,Barnes Bridge,NR,21.0
+Chiswick Park,Acton Town,District,18.0
+City Thameslink,Farringdon,NR,7.0
+Clapham Common,Clapham South,Northern,16.0
+Clapham High Street,Denmark Hill,LO,45.0
+Clapham Junction,Battersea Park,NR,31.0
+Clapham Junction,Queenstown Road (Battersea),NR,28.0
+Clapham Junction,Wandsworth Road,LO,30.0
+Clapham North,Clapham Common,Northern,8.0
+Clapham South,Balham,Northern,17.0
+Clapton,St James Street,LO,42.0
+Colliers Wood,South Wimbledon,Northern,16.0
+Covent Garden,Leicester Square,Piccadilly,4.0
+Crofton Park,Nunhead,NR,24.0
+Crossharbour,Mudchute,DLR,9.0
+Crouch Hill,Harringay Green Lanes,LO,23.0
+Crystal Palace,Gipsy Hill,NR,20.0
+Crystal Palace,Sydenham,LO,26.0
+Custom House (for ExCeL),Prince Regent,DLR,7.0
+Cutty Sark (for Maritime Greenwich),Greenwich,DLR,8.0
+Cyprus,Gallions Reach,DLR,9.0
+Dalston Junction,Canonsbury,LO,18.0
+Dalston Kingsland,Canonbury,LO,15.0
+Denmark Hill,Elephant & Castle (NR),NR,48.0
+Denmark Hill,London Victoria,NR,67.0
+Denmark Hill,Peckham Rye,LO,18.0
+Deptford,London Bridge,NR,72.0
+Deptford Bridge,Elverson Road,DLR,12.0
+Devons Road,Bow Church,DLR,9.0
+Dollis Hill,Neasden,Jubilee,16.0
+Drayton Park,Finsbury Park,NR,20.0
+Ealing Broadway,West Acton,Central,24.0
+Ealing Broadway,West Ealing,NR,17.0
+Ealing Broadway,West Ealing,TfL Rail,21.0
+Ealing Common,Ealing Broadway,District,18.0
+Ealing Common,North Ealing,Piccadilly,17.0
+Earl's Court,Baron's Court,Piccadilly,21.0
+Earls Court,Gloucester Road,District,12.0
+Earls Court,Kensington Olympia,District,18.0
+Earls Court,West Brompton,District,8.0
+Earls Court,West Kensington,District,16.0
+Earlsfield,Clapham Junction,NR,43.0
+East Acton,North Acton,Central,24.0
+East Dulwich,Peckham Rye,NR,21.0
+East India,Canning Town  ,DLR,26.0
+Edgware Road (Bakerloo Line),Paddington,Bakerloo,11.0
+Edgware Road (Circle Line),Baker Street,Hammersmith & City,10.0
+Edgware Road (Circle Line),Paddington,District,10.0
+Elephant & Castle,Kennington,Northern,10.0
+Elephant & Castle (NR),Blackfriars,NR,24.0
+Elephant and Castle,Borough,Northern,13.0
+Elephant and Castle,Lambeth North,Bakerloo,18.0
+Elverson Road,Lewisham,DLR,13.0
+Embankment,Charing Cross,Bakerloo,3.0
+Embankment,Temple,District,9.0
+Embankment,Waterloo,Northern,6.0
+Emirates Royal Docks,Emirates Greenwich Peninsula,Emirates Air Line,19.0
+Essex Road,Highbury & Islington,NR,11.0
+Euston,Camden Town,Northern,19.0
+Euston,Mornington Cresecent,Northern,11.0
+Euston,Warren Street,Victoria,9.0
+Euston Square,Great Portland Street,Metropolitan,10.0
+Euston Square,King's Cross St.Pancras,Metropolitan,15.0
+Farringdon,King Cross St Pancras,Metropolitan,26.0
+Farringdon,St Pancras International,NR,30.0
+Finchley Road,West Hampstead,Jubilee,10.0
+Finchley Road and Frognal,West Hampstead,LO,13.0
+Finsbury Park,Harringay,NR,19.0
+Finsbury Park,Manor House,Piccadilly,13.0
+Finsbury Park,Seven Sisters,Victoria,38.0
+Forest Gate,Manor Park,TfL Rail,24.0
+Forest Hill,Honor Oak Park,LO,17.0
+Fulham Broadway,Parsons Green,District,11.0
+Gallions Reach,Beckton,DLR,14.0
+Gipsy Hill,West Norwood,NR,23.0
+Gloucester Road,South Kensington,District,8.0
+Golders Green,Brent Cross,Northern,19.0
+Goldhawk Road,Hammersmith (H&C Line),Hammersmith & City,17.0
+Goodge Street,Tottenham Court Road,Northern,7.0
+Gospel Oak,Hampstead Heath,LO,16.0
+Gospel Oak,Upper Holloway,LO,28.0
+Great Portland Street,Baker Street,Metropolitan,13.0
+Green Park,Hyde Park Corner,Piccadilly,12.0
+Green Park,Victoria,Victoria,19.0
+Green Park,Westminster,Jubilee,21.0
+Greenwich,Deptford,NR,17.0
+Greenwich,Deptford Bridge,DLR,12.0
+Gunnersbury,Kew Gardens,District,33.0
+Gunnersbury,South Acton,LO,15.0
+Hackney Central,Dalston Kingsland,LO,18.0
+Hackney Central,Homerton,LO,14.0
+Hackney Downs,Clapton,LO,20.0
+Hackney Downs,Rectory Road,LO,17.0
+Hackney Downs,Tottenham Hale,NR,67.0
+Haggerston,Dalston Junction,LO,12.0
+Hammersmith,Turnham Green,Piccadilly,30.0
+Hammersmith (Dist&Picc Line),Ravenscourt Park,District,14.0
+Hampstead,Golders Green,Northern,27.0
+Hampstead Heath,Finchley Road and Frognal,LO,21.0
+Harlesden,Stonebridge Park,Bakerloo,23.0
+Harringay,Hornsey,NR,22.0
+Harringay Green Lanes,South Tottenham,LO,31.0
+Haydons Road,Wimbledon,NR,22.0
+Herne Hill,Brixton,NR,17.0
+Herne Hill,Loughborough Junction,NR,19.0
+Heron Quays,South Quay,DLR,9.0
+High Street Kensington,Earls Court,District,18.0
+Highbury & Islington,Caledonian Road & Barnsbury,LO,13.0
+Highbury & Islington,Drayton Park,NR,12.0
+Highbury & Islington,Finsbury Park,Victoria,29.0
+Highgate,East Finchley,Northern,23.0
+Hither Green,Lewisham,NR,24.0
+Hither Green,St Johns,NR,38.0
+Holborn,Chancery Lane,Central,8.0
+Holborn,Covent Garden,Piccadilly,8.0
+Holland Park,Shepherd's Bush (Central Line),Central,11.0
+Holloway Road,Arsenal,Piccadilly,20.0
+Homerton,Hackney Wick,LO,19.0
+Honor Oak Park,Brockley,LO,27.0
+Hornsey,Alexandra Palace,NR,22.0
+Hoxton,Haggerston,LO,11.0
+Hyde Park Corner,Knightsbridge,Piccadilly,7.0
+Imperial Wharf,Clapham Junction,LO,36.0
+Island Gardens,Cutty Sark (for Maritime Greenwich),DLR,12.0
+Kennington,Oval,Northern,11.0
+Kensal Green,Queens Park,LO,18.0
+Kensal Green,Willesden Junction,Bakerloo,20.0
+Kensal Rise,Willesden Junction,LO,24.0
+Kensington Olympia,West Brompton,LO,21.0
+Kentish Town,Tuffnell Park,Northern,10.0
+Kentish Town,West Hampstead (NR),NR,55.0
+Kentish Town West,Gospel Oak,LO,17.0
+Kew Bridge,Chiswick,NR,23.0
+Kiburn Park,Queen's Park,Bakerloo,11.0
+Kidbrooke,Blackheath,NR,35.0
+Kilburn,Willesden Green,Jubilee,16.0
+Kilburn High Road,South Hampstead,LO,15.0
+King's Cross St.Pancras,Euston,Northern,12.0
+King's Cross St.Pancras,Russell Square,Piccadilly,14.0
+Kings Cross St Pancras,Euston Square,Metropolitan,15.0
+Kings Cross St.Pancras,Caldedonian Road,Piccadilly,27.0
+Kings Cross St.Pancras,Highbury & Islington,Victoria,35.0
+Knightsbridge,South Kensington,Piccadilly,17.0
+Ladbroke Grove,Latimer Road,Hammersmith & City,13.0
+Ladywell,Lewisham,NR,21.0
+Ladywell,St Johns,NR,28.0
+Lambeth North,Waterloo,Bakerloo,9.0
+Lancaster Gate,Marble Arch,Central,15.0
+Langdon Park,Devons Road,DLR,13.0
+Latimer Road,Wood Lane,Hammersmith & City,15.0
+Lea Bridge,Tottenham Hale,NR,55.0
+Lee,Hither Green,NR,17.0
+Leicester Square,Charing Cross,Northern,7.0
+Leicester Square,Piccadilly Circus,Piccadilly,6.0
+Lewisham,Nunhead,NR,41.0
+Lewisham,St Johns,NR,16.0
+Leyton,Leytonstone,Central,23.0
+Leyton Midland Road,Leytonstone High Road,LO,20.0
+Leytonstone High Road,Wanstead Park,LO,26.0
+Limehouse,Fenchurch Street,NR,38.0
+Limehouse,Westferry,DLR,15.0
+Liverpool Street,Aldgate East,Hammersmith & City,11.0
+Liverpool Street,Bethnal Green,Central,33.0
+Liverpool Street,Bethnal Green,LO,25.0
+Liverpool Street,Moorgate,Metropolitan,6.0
+Liverpool Street,Stratford,TfL Rail,90.0
+London Bridge,Bank,Northern,6.0
+London Bridge,Bermondsey,Jubilee,28.0
+London Bridge,Waterloo East,NR,24.0
+London City Airport,King George V,DLR,13.0
+London Fields,Hackney Downs,LO,16.0
+London King's Cross,Finsbury Park,NR,59.0
+London Liverpool Street,Hackney Downs,NR,57.0
+London Paddington,Acton Main Line,NR,92.0
+Loughborough Junction,Elephant & Castle (NR),NR,47.0
+Maida Vale,Kilburn Park,Bakerloo,12.0
+Manor House,Turnpike Lane,Piccadilly,28.0
+Mansion House,Cannon Street,District,4.0
+Marble Arch,Bond Street,Central,7.0
+Maryland,Forest Gate,TfL Rail,16.0
+Marylebone,Edgware Road (Bakerloo Line),Bakerloo,7.0
+Monument,Tower Hill,District,10.0
+Moorgate,Barbican,Metropolitan,10.0
+Moorgate,Old Street,NR,9.0
+Moorgate,Old Street,Northern,9.0
+New Cross Gate,Brockley,LO,17.0
+New Cross Gate,London Bridge,NR,71.0
+Norbury,Streatham Common,NR,17.0
+North Acton,Hanger Lane,Central,33.0
+North Dulwich,East Dulwich,NR,16.0
+North Ealing,Park Royal,Piccadilly,21.0
+North Greenwich,Canning Town,Jubilee,104.0
+North Sheen,Mortlake,NR,24.0
+Notting Hill Gate,High Street Kensington,District,13.0
+Notting Hill Gate,Holland Park,Central,10.0
+Notting Hill Gate,Queensway,Central,8.0
+Nunhead,Peckham Rye,NR,19.0
+Old Street,Angel,Northern,20.0
+Old Street,Essex Road,NR,24.0
+Oval,Stockwell,Northern,22.0
+Oxford Circus,Green Park,Victoria,15.0
+Oxford Circus,Regents Park,Bakerloo,15.0
+Oxford Circus,Tottenham Court Road,Central,9.0
+Paddington,Acton Main Line,TfL Rail,112.0
+Paddington,Bayswater,District,17.0
+Paddington,Warwick Avenue,Bakerloo,16.0
+Paddington (H&C Line),Royal Oak,Hammersmith & City,19.0
+Parsons Green,Putney Bridge,District,15.0
+Peckham Rye,Denmark Hill,NR,20.0
+Peckham Rye,Queens Road Peckham,LO,14.0
+Piccadilly Circus,Green Park,Piccadilly,8.0
+Piccadilly Circus,Oxford Circus,Bakerloo,12.0
+Poplar,All Saints,DLR,9.0
+Poplar,Blackwall,DLR,13.0
+Poplar,West India Quay,DLR,4.0
+Putney,Wandsworth Town,NR,29.0
+Putney Bridge,East Putney,District,16.0
+Queens Park,Kensal Green,Bakerloo,18.0
+Queens Park,Kilburn High Road,LO,13.0
+Queens Road Peckham,South Bermondsey,NR,26.0
+Queens Road Peckham,Surrey Quays,LO,38.0
+Regents Park,Baker Street,Bakerloo,10.0
+Seven Sisters,Bruce Grove,LO,19.0
+Seven Sisters,Tottenham Hale,Victoria,19.0
+Shadwell,Limehouse,DLR,15.0
+Shadwell,Tower Gateway,DLR,18.0
+Shadwell,Whitechapel,LO,18.0
+Shepherd's Bush,Kensington Olympia,LO,17.0
+Shepherd's Bush (Central Line),White City,Central,15.0
+Shepherd's Bush Market,Goldhawk Road,Hammersmith & City,6.0
+Shoreditch High Street,Hoxton,LO,15.0
+Sloane Square,Victoria,District,13.0
+South Acton,Acton Central,LO,21.0
+South Bermondsey,London Bridge,NR,42.0
+South Ealing,Northfields,Piccadilly,12.0
+South Hampstead,Euston,LO,53.0
+South Kensington,Sloane Square,District,17.0
+South Quay,Crossharbour,DLR,7.0
+South Tottenham,Blackhorse Road,LO,35.0
+Southfields,East Putney,District,26.0
+Southwark,London Bridge,Jubilee,19.0
+St Pancras International,Kentish Town,NR,32.0
+St. James's Park,Westminster,District,11.0
+St. John's Wood,Swiss Cottage,Jubilee,14.0
+St. Paul's,Bank,Central,9.0
+Stockwell,Brixton,Victoria,16.0
+Stockwell,Clapham North,Northern,7.0
+Stoke Newington,Stamford Hill,LO,16.0
+Stratford,Hackney Wick,LO,29.0
+Stratford,Lea Bridge,NR,52.0
+Stratford,Leyton,Central,25.0
+Stratford,Maryland,TfL Rail,14.0
+Stratford,Mile End,Central,43.0
+Stratford,Pudding Mill Lane,DLR,24.0
+Stratford  ,Stratford International,DLR,11.0
+Stratford High Street,Stratford,DLR,7.0
+Streatham,Mitcham Eastfields,NR,37.0
+Streatham,Tooting,NR,35.0
+Streatham Common,Balham,NR,41.0
+Streatham Common,Streatham,NR,17.0
+Streatham Hill,Balham,NR,26.0
+Surrey Quays,Canada Water,LO,8.0
+Surrey Quays,New Cross,LO,31.0
+Surrey Quays,New Cross Gate,LO,31.0
+Temple,Blackfriars,District,10.0
+Tooting,Haydons Road,NR,33.0
+Tooting Bec,Tooting Broadway,Northern,13.0
+Tooting Broadway,Colliers Wood,Northern,19.0
+Tottenham Court Road,Holborn,Central,10.0
+Tottenham Court Road,Leicester Square,Northern,8.0
+Tottenham Hale,Blackhorse Road,Victoria,18.0
+Tottenham Hale,Northumberland Park,NR,25.0
+Tower Hill,Aldgate,Circle,9.0
+Tower Hill,Aldgate East,District,10.0
+Tulse Hill,Herne Hill,NR,21.0
+Tulse Hill,North Dulwich,NR,32.0
+Turnham Green,Acton Town,Piccadilly,28.0
+Turnham Green,Chiswick Park,District,15.0
+Turnham Green,Gunnersbury,District,21.09.0
+Vauxhall,London Waterloo,NR,30.0
+Vauxhall,Stockwell,Victoria,21.0
+Victoria,Pimlico,Victoria,12.0
+Victoria,St. James's Park,District,11.0
+Walthamstow Queen's Road,Leyton Midland Road,LO,27.0
+Wandsworth Common,Clapham Junction,NR,29.0
+Wandsworth Road,Clapham High Street,LO,11.0
+Wandsworth Town,Clapham Junction,NR,17.0
+Warren Street,Goodge Street,Northern,7.0
+Warren Street,Oxford Circus,Victoria,18.0
+Waterloo,Bank,Waterloo & City,33.0
+Waterloo,Embankment,Bakerloo,6.0
+Waterloo,Kennington,Northern,25.0
+Waterloo,Southwark,Jubilee,8.0
+West Acton,North Acton,Central,22.0
+West Brompton,Fulham Broadway,District,15.0
+West Brompton,Imperial Wharf,LO,25.0
+West Ham,Abbey Road,DLR,10.0
+West Ham,Limehouse,NR,64.0
+West Ham,Plaistow,District / H&C,17.0
+West Ham ,Stratford,Jubilee,24.0
+West Hampstead,Brondesbury,LO,8.0
+West Hampstead,Kilburn,Jubilee,15.0
+West Hampstead (NR),Cricklewood,NR,28.0
+West Kensington,Barons Court,District,7.0
+West Norwood,Streatham Hill,NR,32.0
+West Norwood,Tulse Hill,NR,15.0
+Westferry,Poplar,DLR,10.0
+Westferry,West India Quay,DLR,8.0
+Westminster,Embankment,District,10.0
+Westminster,Waterloo,Jubilee,17.0
+White City,East Acton,Central,25.0
+Whitechapel,Shoreditch High Street,LO,17.0
+Whitechapel,Stepney Green,Hammersmith & City,16.0
+Willesden Green,Dollis Hill,Jubilee,17.0
+Willesden Junction,Harlesden,Bakerloo,19.0
+Willesden Junction,Kensal Green,LO,20.0
+Willesden Junction,Shepherd's Bush,LO,50.0
+Wimbledon,Earlsfield,NR,41.0
+Wimbledon,Wimbledon Chase,NR,22.0
+Wimbledon,Wimbledon Park,District,28.0
+Wimbledon Park,Southfields,District,19.0
+Wood Green,Bounds Green,Piccadilly,23.0
+Wood Lane,Shepherd's Bush Market,Hammersmith & City,8.0

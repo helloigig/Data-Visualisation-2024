@@ -1,0 +1,158 @@
+:root {
+  --background: #F5F5F5; /* Light light gray background */
+  --gridLines: #B1A68B;
+  --lightRain: #D9FDFF;
+  --heavyRain: #2178DD;
+  --buttonActive: #4A90E2;
+  --inactive: #FFF9C4;
+  --hoverBg: #4A90E2;
+  --hoverText: #FFF9C4;
+  --brown: #7F534B;
+  --yellow: #F2FF59;
+  --black: #333333;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: var(--background);
+  overflow: hidden;
+}
+
+#chart-container {
+  background-color: var(--background);
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  width: 98vw;
+  padding: 0;
+  margin: 0;
+}
+
+.header-all {
+  background-color: var(--background);
+  display: flex;
+  width: 100%;
+  padding: 10px 0px;
+  height: auto;
+}
+
+.title {
+  margin: 0;
+  font-size: 24px; /* Smaller text size for "Raining Days" */
+  color: var(--brown);
+  font-weight: 300;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+  text-align: left;
+  padding: 5px 0px 5px 60px;
+  align-content: center;
+  width: 40%;
+}
+
+.button-container {
+  display: flex;
+  /* display:inline-flex; */
+  width: 100%;
+  flex-grow:1;
+  /* padding: 10px 0; */
+  height:auto;
+
+}
+
+.state-button {
+  
+  background-color: var(--background);
+  flex: 1;
+  margin: 0px;
+  font-size: 16px;
+  cursor: pointer;
+  color: var(--brown);
+  border: none;
+  transition: background-color 0.3s, color 0.3s;
+  text-align: center;
+  border-radius: 0;
+  padding: 10px 0;
+  height: auto;
+  position: relative; /* Added for underline positioning */
+}
+
+.state-button:hover {
+  font-weight: 600;
+}
+
+.state-button.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 30px; /* Shorter line */
+  height: 2px;
+  background-color: var(--brown);
+  transform: translateX(-50%); /* Center the line */
+}
+
+#chart {
+  background-color: var(--background);
+  flex: 1;
+  width: 100%;
+  min-height: 0; /* This allows the chart to shrink if needed */
+  /* display: flex; */
+  justify-content: center;
+  align-items: center; 
+  height: calc(100vh - 70px);
+}
+
+.tooltip {
+  position: absolute;
+  pointer-events: none;
+  text-align: center;
+  padding: 100px;
+  font: 12px 'Inter', sans-serif;
+  color: var(--brown);
+  background: var(--yellow);
+  border-radius: 3px;
+  opacity: 0;
+  transform: translate(6%,-5%);
+}
+
+.axis text {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  fill: var(--gridLines);
+  transition: fill 0.3s, font-weight 0.3s;
+}
+
+.axis line, .axis path, .grid-line {
+  stroke: var(--gridLines);
+  stroke-opacity: 0.3; /* More diminished grid lines */
+}
+
+.axis .tick line {
+  stroke: var(--gridLines);
+}
+
+.x.axis .tick text {
+  transform: translateY(5px);
+}
+
+.y.axis .tick text {
+  transform: translateX(-5px);
+}
+
+.y.axis.right .tick text {
+  transform: translateX(5px);
+}
+
+@media (max-width: 600px) {
+  .state-button {
+    font-size: 14px;
+    padding: 8px 0;
+  }
+
+  .title {
+    font-size: 18px;
+  }
+}

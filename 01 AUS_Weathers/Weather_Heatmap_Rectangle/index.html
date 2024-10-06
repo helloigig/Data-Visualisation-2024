@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>D3.js Heatmap Rectangle</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="info">
+      <div id="date" class="title">Hover on a date</div>
+      <div id="max-temp-title" class="subtitle">High Temp</div>
+      <div id="max-temp" class="large-number">--°C</div>
+      <div id="min-temp-title" class="subtitle">Low Temp</div>
+      <div id="min-temp" class="large-number">--°C</div>
+      <div id="temp-diff-title" class="subtitle">Difference</div>
+      <div id="temp-diff" class="large-number">--°C</div>
+    </div>
+    <div id="chart-container">
+      <div id="tooltip" class="tooltip"></div>
+      <div id="chart"></div>
+    </div>
+  </div>
+  <ul class="links">
+    <li><a href="https://yuqi.framer.website/" target="_blank">More from Gigi Wu</a></li>
+    <li><a href="https://www.linkedin.com/in/gigiwu" target="_blank">LinkedIn</a></li>
+    <li><a href="mailto:wuyuqi827@mgmail.com">Contact by Email</a></li>
+  </ul>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+From,To,Lines,Lines.1,Walking time
+All Saints,Blackwall,DLR,DLR,8.0
+Bank,Cannon Street,"Central, Northern, Waterloo & City, DLR","District, Circle",4.0
+Bank,Mansion House,"Central, Northern, Waterloo & City, DLR","District, Circle",5.0
+Barbican,Chancery Lane,"Hammersmith&City, Metropolitan, Circle",Central,12.0
+Barbican,St. Paul's,"Hammersmith&City, Metropolitan, Circle",Central,8.0
+Bayswater,Queensway,"District, Circle",Central,5.0
+Bethnal Green,Stepney Green,London Overground,"District, Hammersmith&City",8.0
+Bethnal Green,Whitechapel,London Overground,"London Overground, District, Hammersmith&City",8.0
+Blackfriars,Chancery Lane,"District, Circle, National Rail",Central,12.0
+Blackfriars,Southwark,"District, Circle, National Rail",Jubilee,11.0
+Blackfriars,St. Paul's,"District, Circle, National Rail",Central,9.0
+Borough,Southwark,Northern,Jubilee,12.0
+Camden Road,Mornington Crescent,London Overground,Northern,11.0
+Cannon Street,St. Paul's,"District, Circle, National Rail",Central,8.0
+Chancery Lane,Farringdon,Central,"Hammersmith&City, Metropolitan, Circle, National Rail",8.0
+Chancery Lane,Temple,Central,"District, Circle",14.0
+Charing Cross,Westminster,"Bakerloo, Northern, National Rail","District, Jubilee, Circle",9.0
+Clapham High Street,Clapham Common,London Overground,Northern,8.0
+Covent Garden,Temple,Piccadilly,"District, Circle",11.0
+Covent Garden,Tottenham Court Road,Piccadilly,"Central, Northern",8.0
+Edgware Road (Bakerloo),Marble Arch,Bakerloo,Central,13.0
+Edgware Road (Circle Line),Lancaster Gate,"District, Hammersmith&City, Circle",Central,14.0
+Edgware Road (Circle Line),Marble Arch,"District, Hammersmith&City, Circle",Central,12.0
+Euston Square,Goodge Street,"Hammersmith&City, Metropolitan, Circle",Northern,12.0
+Farringdon,St. Paul's,"Hammersmith&City, Metropolitan, Circle",Central,11.0
+Finchley Road & Frognal,Hampstead,London Overground,Northern,11.0
+Goldhawk Road,Shepherd's Bush (Central),"Hammersmith&City, Circle",Central,8.0
+Goodge Street,Great Portland Street,Northern,"Hammersmith&City, Metropolitan, Circle",11.0
+Goodge Street,Regent's Park,Northern,Bakerloo,13.0
+Goodge Street,Russell Square,Northern,Piccadilly,12.0
+Great Portland Street,Oxford Circus,"Hammersmith&City, Metropolitan, Circle","Bakerloo, Central, Victoria",12.0
+Great Portland Street,Regent's Park,"Hammersmith&City, Metropolitan, Circle",Bakerloo,2.0
+Great Portland Street,Warren Street,"Hammersmith&City, Metropolitan, Circle","Northern, Victoria",5.0
+Hackney Central,London Fields,London Overground,London Overground,10.0
+Hampstead Heath,Belsize Park,London Overground,Northern,8.0
+Holborn,Temple,"Central, Piccadilly","District, Circle",11.0
+Kentish Town West,Camden Town,London Overground,Northern,12.0
+Kentish Town West,Chalk Farm,London Overground,Northern,8.0
+Lambeth North,Southwark,Bakerloo,Jubilee,10.0
+Latimer Road,Shepherd's Bush (Central),"Hammersmith&City, Circle",Central,14.0
+New Cross,Deptford Bridge,"London Overground, National Rail",DLR,8.0
+Queensway,Royal Oak,Central,"Hammersmith&City, Circle",12.0
+Rectory Road,Clapton,London Overground,London Overground,11.0
+Regent's Park,Warren Street,Bakerloo,"Northern, Victoria",7.0
+Royal Oak,Warwick Avenue,"Hammersmith&City, Circle",Bakerloo,10.0
+Shepherd's Bush (Central),Wood Lane,Central,"Hammersmith&City, Circle",10.0
+Shoreditch High Street,Liverpool Street,London Overground,"Central, Hammersmith&City, Metropolitan, Circle, National Rail",12.0
+Shoreditch High Street,Old Street,London Overground,"Northern, National Rail",12.0
+South Hampstead,Finchley Road,London Overground,"Jubilee, Metropolitan",8.0
+South Hampstead,St. John's Wood,London Overground,Jubilee,12.0

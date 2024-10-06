@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rainfall Streamgraph</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="details">
+        <h3>Details</h3>
+        Hover over the graph to see details here.
+    </div>
+    
+    <div id="buttons"></div>
+    
+    <div class="svg-container" style="overflow-x: hidden; width: 100%;">
+        <div id="chart" style="width: 10000px; height: 600px;"></div>
+    </div>
+    
+    <input type="range" id="scroll-slider" min="0" max="100" value="0">
+    
+    <div class="tooltip" style="opacity: 0;"></div>
+    <script src="script.js"></script>
+</body>
+</html>
